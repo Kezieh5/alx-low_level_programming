@@ -6,10 +6,11 @@
 /**
  * main - prints sums of arg positive numbers
  * @argc: argument count
- * #argv: arg vector
+ * @argv: arg vector
  * Return: 0 always
  */
 int main(int argc, char *argv[])
+
 {
 	int i;
 	unsigned int k, sum = 0;
