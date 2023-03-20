@@ -20,7 +20,7 @@ int _strlen(char *str)
 	return (len);
 }
 /**
- * _strcpy - copies a string pointed to by src
+ * _strcopy - copies a string pointed to by src
  * including terminating bye
  * @dest: buffer storing string copy
  * @src: source string
